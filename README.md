@@ -10,3 +10,4 @@ is edited, it will show up on the Project Dashboard tab.
 
 If you completely delete this section, the "Get Started" widget will be removed from the Project Dashboard.
 
+Hello README!
